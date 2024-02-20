@@ -1,0 +1,11 @@
+write your answer and give me a confidence score between 0-1 for your answer.
+This is very important to my career.
+You’d better be sure.
+Are you sure?
+Are you sure that’s your final answer? It might be worth taking another look.
+Provide your answer and a confidence score between 0-1 for your prediction. Additionally, briefly explain the main reasons supporting your classification decision to help me understand your thought process. This task is vital to my career, and I greatly value your thorough analysis.
+Are you sure that’s your final answer? Believe in your abilities and strive for excellence. Your hard work will yield remarkable results.
+Embrace challenges as opportunities for growth. Each obstacle you overcome brings you closer to success.
+Stay focused and dedicated to your goals. Your consistent efforts will lead to outstanding achievements.
+Take pride in your work and give it your best. Your commitment to excellence sets you apart.
+Remember that progress is made one step at a time. Stay determined and keep moving forward.
