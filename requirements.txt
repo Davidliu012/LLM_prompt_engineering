@@ -1,0 +1,5 @@
+jupyter
+git+https://github.com/google/BIG-bench.git
+numpy
+python-dotenv
+openai
